@@ -11,33 +11,23 @@ rental value and expected occupancy percentage.
 
 
 #### Screenshot of main screen: 
-![alt text][2][1]
-  [2]: doc-files/ScreenShot-Main-2012-06-13_19-02-22.png
-  [1]: https://github.com/deanclark/HouseMartinAndroid/doc-files/ScreenShot-Main-2012-06-13_19-02-22.png "Image of Main Screen"
+!["Image of Main Screen"](https://github.com/deanclark/AuctionPal/blob/master/doc-files/ScreenShot-Main-2012-06-13_19-02-22.png)
 
 
 #### Screenshot of Offer Increments screen: 
-![alt text][4][3]
-  [4]: doc-files/ScreenShot-OfferIncrements-2012-06-13_19-02-30.png
-  [3]: https://github.com/deanclark/HouseMartinAndroid/doc-files/ScreenShot-OfferIncrements-2012-06-13_19-02-30.png "Image of Main Screen"
+!["Image of Main Screen"](https://github.com/deanclark/AuctionPal/blob/master/doc-files/ScreenShot-OfferIncrements-2012-06-13_19-02-30.png)
 
 
 #### Screenshot of Property Details screen: 
-![alt text][6][5]
-  [6]: doc-files/ScreenShot-PrpertyDetails-2012-06-13_19-02-55.png
-  [5]: https://github.com/deanclark/HouseMartinAndroid/doc-files/ScreenShot-PrpertyDetails-2012-06-13_19-02-55.png "Image of Property Details Screen"
+!["Image of Property Details Screen"](https://github.com/deanclark/AuctionPal/blob/master/doc-files/ScreenShot-PrpertyDetails-2012-06-13_19-02-55.png)
 
 
 #### Screenshot of rent screen: 
-![alt text][8][7]
-  [8]: doc-files/ScreenShot-Rent-2012-06-13_19-02-38.png
-  [7]: https://github.com/deanclark/HouseMartinAndroid/doc-files/ScreenShot-Rent-2012-06-13_19-02-38.png "Image of Rent Screen"
+!["Image of Rent Screen"](https://github.com/deanclark/AuctionPal/blob/master/doc-files/ScreenShot-Rent-2012-06-13_19-02-38.png)
 
 
 #### Screenshot of splash screen: 
-![alt text][10][9]
-  [10]: doc-files/ScreenShot-Splash-2012-06-13_19-02-03.png
-  [9]: https://github.com/deanclark/HouseMartinAndroid/doc-files/ScreenShot-Splash-2012-06-13_19-02-03.png "Image of Splash Screen"
+!["Image of Splash Screen"](https://github.com/deanclark/AuctionPal/blob/master/doc-files/ScreenShot-Splash-2012-06-13_19-02-03.png)
 
 
 Controls
